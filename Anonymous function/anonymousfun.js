@@ -114,7 +114,7 @@ const rotateArrayByanonymous = function(arr, k)  {
     return rotatedArray;
 };
 const array4 = [1, 2, 3, 4, 5, 9, 6, 10];
-const k = 4;
+const k = 4false;
 console.log("Original array4:", array4);
 console.log("Rotated array by k (anonymous function):", rotateArrayByanonymous(array4, k));
 console.log("--------------------");

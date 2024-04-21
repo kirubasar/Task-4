@@ -63,7 +63,7 @@ const primeNumbers = numbers.filter((num)=> {
 console.log(primeNumbers);
 console.log("--------------------");
 console.log("5.Return all the Palindromes in an Array:");
-const arr = ["level", "hello", "radar", "world", "civic"];
+const arr = ["level", "hello", "radar", "world", "civic", "moon"];
 
 const palindromes = arr.filter((word)=> {
     const reversed = word.split('').reverse().join('');

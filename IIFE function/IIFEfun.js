@@ -102,6 +102,7 @@ let uniqueArr = (function(arr) {
     }
     return result;
 })(num);
+
 console.log(uniqueArr); 
 console.log("--------------------");
 console.log("8.Rotate an Array by k Times")
