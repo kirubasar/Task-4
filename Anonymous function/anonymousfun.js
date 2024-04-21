@@ -102,7 +102,7 @@ let uniqueArr = function(arr) {
 };
 console.log(uniqueArr(num)); 
 console.log("--------------------");
-console.log("8.Rotate an Array by k Times")
+console.log("8.Rotate an Array by k Times:")
 const rotateArrayByanonymous = function(arr, k)  {
     const rotatedArray = [];
     const len = arr.length;
